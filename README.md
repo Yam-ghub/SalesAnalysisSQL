@@ -1,2 +1,2 @@
 # SalesAnalysisSQL
-##SQL project practice analyzing sales using PostgreSQL and pgAdmin 4
+**SQL project practice analyzing sales using PostgreSQL and pgAdmin4**
